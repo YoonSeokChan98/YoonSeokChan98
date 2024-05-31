@@ -15,10 +15,11 @@
 
 
 - 👋 Hi, I’m @YoonSeokChan98
-- 🌱 I’m currently learning ...
+- 🇰🇷 from korea
+- 🌱 I’m currently learning :
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- 📫 How to reach me ...
+- 📫 How to reach me :
 [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sZG4P53b)
 <!---
 YoonSeokChan98/YoonSeokChan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
