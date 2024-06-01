@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=welcome%20my%20%20world&section=header&reversal=false&fontAlign=50&animation=fadeIn&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=welcome%20to%20my%20%20world&section=header&reversal=false&fontAlign=50&animation=fadeIn&textBg=false)
 
 
 
@@ -30,8 +30,8 @@
 
 
   
-- 📫 How to reach me :
-[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sZG4P53b)
+<!--- 📫 How to reach me :
+[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sZG4P53b)--->
 
 
 
