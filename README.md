@@ -20,13 +20,14 @@
 
 - 🌱 I’m currently learning :
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSeokChan98&show_icons=true&theme=cobaltbg_color=00000000)
-  [[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonSeokChan98%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://www.w3schools.com/css/default.asp))
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonSeokChan98%2Fhit-counter&count_bg=%2300FFEE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
 <!--- 📫 How to reach me :
