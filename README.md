@@ -37,11 +37,13 @@
 
 #### ⚙️ DevOps
 <p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://desktop.github.com/" target="_blank"><img src="https://img.shields.io/badge/github%20desktop-%238A2BE2.svg?style=flat&logo=github&logoColor=white" alt="GitHub Desktop"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/></a>
 </p>
+
 
 <br>
 
@@ -49,6 +51,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSeokChan98&show_icons=true&theme=cobaltbg_color=00000000)
 
 <br>
+
+### 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonSeokChan98&layout=compact&theme=radical)
+
+<br/>
 
 ### 🎉 Contributions
 [![YoonSeokChan98's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoonSeokChan98&theme=react)](https://github.com/YoonSeokChan98)
