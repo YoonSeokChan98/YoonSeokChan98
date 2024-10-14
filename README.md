@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&background=8745FF00&random=false&width=1000&lines=🔥+Hi+guys!+I'm+a+passionate+Frontend+Developer!)](https://git.io/typing-svg)
 
-## 👋 I'm Yoon Seok Chan
+## 👋 Hello, I'm Yoon Seok Chan
 
 - **🌍 Location:** South Korea 🇰🇷
 - **📅 Started Coding:** 2024-05-29
 - **🔗 GitHub Profile:** [YoonSeokChan98](https://github.com/YoonSeokChan98)
+- **📖 Notion:** [My Notion Page](https://www.notion.so/115e8f654d838083994ce6333f298e05)
 
 ---
 
