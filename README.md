@@ -15,23 +15,28 @@
 
 #### 🌐 Frontend
 <p>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="https://www.w3schools.com/react/default.asp" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS"/></a>
-    <a href="https://www.w3schools.com/typescript/index.php" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/></a>
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS"/></a>
 </p>
 
 #### 💻 Backend
 <p>
-  <a href="https://www.w3schools.com/nodejs/default.asp" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS"/></a>
-   <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express-%23404d59.svg?style=flat&logo=express&logoColor=white" alt="Express"/></a>
 </p>
 
-### 📚 Currently Learning
+#### ⚙️ DevOps
 <p>
-   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/></a>
 </p>
+
 
 
 
