@@ -65,7 +65,7 @@
 <br>
 
 ### 📬 Contact Me
-- **KakaoTalk:** [![KakaoTalk](kakaoopen://join?l=sA3l7SAg&r=EW%3Ahttps%3A%2F%2Fgithub.com%2F) 👈 Click!
+- **KakaoTalk:** [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sA3l7SAg) 👈 Click!
     open a new tap: ctrl + click plz :)
 
 <br>
