@@ -18,8 +18,8 @@
 #### 🌐 Frontend
 <p>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML"/></a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS"/></a>
@@ -65,7 +65,7 @@
 <br>
 
 ### 📬 Contact Me
-- **KakaoTalk:** [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sA3l7SAg) 👈 Click!
+- **KakaoTalk:** [![KakaoTalk](kakaoopen://join?l=sA3l7SAg&r=EW%3Ahttps%3A%2F%2Fgithub.com%2F) 👈 Click!
     open a new tap: ctrl + click plz :)
 
 <br>
