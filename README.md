@@ -44,7 +44,7 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/></a>
 </p>
 
-
+<!--
 <br>
 
 ### 📊 My GitHub Stats
@@ -57,14 +57,15 @@
 
 <br/>
 
-<!--
 ### 🎉 Contributions
 [![YoonSeokChan98's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoonSeokChan98&theme=react)](https://github.com/YoonSeokChan98)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonSeokChan98%2Fhit-counter&count_bg=%2300FFEE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
--->
+--> 
+
+<br/>
 
 ### 📬 Contact Me
 - **KakaoTalk:** [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/sA3l7SAg) 👈 Click!
